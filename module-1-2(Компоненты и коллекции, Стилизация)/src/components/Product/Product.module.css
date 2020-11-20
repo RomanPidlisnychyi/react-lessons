@@ -1,0 +1,23 @@
+@value red-color from '../../vars.module.css';
+
+.container {
+    outline: 1px solid aqua;
+}
+
+.name {
+    font-weight: 400;
+}
+
+.quantity {
+    font-weight: 500;
+}
+
+.avalible {
+    composes: quantity;
+    color: green;
+}
+
+.notAvalible {
+    composes: quantity;
+    color: red-color;
+}

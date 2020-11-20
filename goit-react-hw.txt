@@ -1,0 +1,52 @@
+    "homepage": "https://RomanPidlisnychyi.github.io/goit-react-homework/homework-05/build",
+
+
+===============Д/З №1=================
+Ссылка на репозиторий:
+https://github.com/RomanPidlisnychyi/goit-react-homework/tree/master/homework-01
+
+Ссылка на рабочую страницу:
+https://romanpidlisnychyi.github.io/goit-react-homework/homework-01/build/
+
+===============Д/З №2=================
+Ссылка на репозиторий:
+https://github.com/RomanPidlisnychyi/goit-react-homework/tree/master/homework-02
+
+Ссылка на рабочую страницу:
+1) https://romanpidlisnychyi.github.io/goit-react-homework/homework-02/feedback/build/
+
+2) https://romanpidlisnychyi.github.io/goit-react-homework/homework-02/phonebook/build/
+
+===============Д/З №3=================
+Ссылка на репозиторий:
+https://github.com/RomanPidlisnychyi/goit-react-homework/tree/master/homework-03
+
+Ссылка на рабочую страницу:
+1) https://romanpidlisnychyi.github.io/goit-react-homework/homework-03/image-finder/build/
+
+2) https://romanpidlisnychyi.github.io/goit-react-homework/homework-03/phonebook/build/
+
+===============Д/З №4=================
+Ссылка на репозиторий:
+https://github.com/RomanPidlisnychyi/goit-react-homework/tree/master/homework-04
+
+Ссылка на рабочую страницу:
+1) https://prg-goit-react-hw-04-movies.netlify.app/
+
+===============Д/З №5=================
+Ссылка на репозиторий:
+https://github.com/RomanPidlisnychyi/goit-react-homework/tree/master/homework-05
+
+Ссылка на рабочую страницу:
+1) https://romanpidlisnychyi.github.io/goit-react-homework/homework-05/build/
+
+===============Д/З №6=================
+Ссылка на репозиторий:
+https://github.com/RomanPidlisnychyi/goit-react-homework/tree/master/homework-06
+
+Ссылка на рабочую страницу:
+1) https://romanpidlisnychyi.github.io/goit-react-homework/homework-06/build/
+
+
+
+
